@@ -3,7 +3,7 @@
 ## Overview
 I'll be posting articles on my research, CTF walkthroughs, certitfication and course reviews, things that interst me, and more...
 
-As I continue to post, I'll add more features. If you're interested in contacting me, send me an email at gnNNErx0@gmail.com
+As I continue to post, I'll add more features. If you're interested in contacting me for any reason, send me an email at gnNNerx0@gmail.com.
 
 ## About Me
 My name is Devon Standingstrong and I'll be posting articles here on my blog as I study all things information security. My main interests include reverse engineering, cyber threat intelligence, IoT hacking, digital forensics, and video game hacking/cheating.
