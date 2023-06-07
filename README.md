@@ -1,7 +1,7 @@
 # gnNNer0x.github.io - My Collection of Cybersecurity and DFIR Ramblings and Research
 
 ## Overview
-I'll be posting articles on my research, CTF walkthroughs, certitfication and course reviews, things that interst me, and more...
+I'll be posting articles on my research, CTF walkthroughs, certitfication and course reviews, things that interest me, and more...
 
 As I continue to post, I'll add more features. If you're interested in contacting me for any reason, send me an email at gnNNerx0@gmail.com.
 
